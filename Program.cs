@@ -30,7 +30,7 @@ namespace mince
                 //1 - panna, 0 - orel
                 //tohle pujde na github
                 int a = random.Next(0, 2);
-                if (a == last)
+                if (a == 1)
                 {
                     serie += 1;
                     if (serie == 7)
