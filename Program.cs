@@ -28,7 +28,7 @@ namespace mince
             for (int i = 0; i < 100; i++)
             {
                 //1 - panna, 0 - orel
-                //tohle pujde na github
+                //tohle pujde na githu
                 int a = random.Next(0, 2);
                 if (a == 1)
                 {
